@@ -42,4 +42,8 @@ https://example.com
 
 ## 설치
 
-`SKILL.md`를 Claude의 스킬로 추가합니다.
+1. [site-seo-geo-audit.zip](https://github.com/seon-biz/site-seo-geo-audit/raw/main/site-seo-geo-audit.zip)을 내려받습니다. 압축은 풀지 않습니다.
+2. Claude(claude.ai)에서 **Customize > Skills** → **+** → **Create skill** → **Upload a skill**을 누르고 ZIP을 올립니다.
+3. 무료·Pro·Max 요금제는 먼저 **Settings > Capabilities**에서 **Code execution and file creation**(새 화면에서는 Create and edit files)을 켜 둡니다.
+
+저장소의 "Download ZIP"은 폴더 이름이 바뀌어 스킬로 인식되지 않을 수 있으니, 위 ZIP을 사용하세요.
